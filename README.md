@@ -176,12 +176,5 @@ Web-based hospital management application.
 
 <img src="https://raw.githubusercontent.com/anupriya-rao/anupriya-rao/output/github-contribution-grid-snake-rainbow.svg" width="90%"/>
 
-<sub>⚙️ trophies pull live from your account automatically. Snake needs a 1-time GitHub Action — say "set it up" and I'll write it.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A86FF,25:8338EC,50:FFBE0B,75:FB5607,100:FF006E&height=150&section=footer&animation=twinkling"/>
-
-**♥ KEEP CODING · KEEP CREATING · KEEP GOING ♥**
 
 </div>
