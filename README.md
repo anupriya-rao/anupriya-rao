@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./pixel-banner.png" width="100%"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anupriya-rao/anupriya-rao/main/pixel-banner.png" width="100%" alt="Anupriya Rao Banner"/>
+
+</div>
 
 <img src="https://img.shields.io/badge/CGPA-8.24%2F10-FF006E?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-FFBE0B?style=for-the-badge&labelColor=000000"/>
