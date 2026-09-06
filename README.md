@@ -102,30 +102,9 @@ Web-based hospital management application.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3A86FF,50:8338EC,100:FF006E&height=4&width=100%"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anupriya-rao&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FF006E&icon_color=FFBE0B"/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🔥 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupriya-rao&theme=highcontrast&hide_border=true&background=00000000&ring=FF006E&fire=FFBE0B"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupriya-rao&theme=synthwave&hide_border=true&bg_color=00000000&color=FFBE0B&line=FF006E&point=ffffff" width="90%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8338EC,50:FF006E,100:FFBE0B&height=4&width=100%"/>
 
 <table>
 <tr>
